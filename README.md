@@ -1,1 +1,1 @@
-# SQLite-course
+JupyterLab uzerinde, "Temel SQLite islemleri" aciklamalariyla yapilmistir. :)
