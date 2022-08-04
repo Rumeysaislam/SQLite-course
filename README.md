@@ -1,1 +1,2 @@
-JupyterLab uzerinde, "Temel SQLite islemleri" aciklamalariyla yapilmistir. :)
+JupyterLab uzerinde, "Temel SQLite islemleri" aciklamalariyla yapilmistir. 
+:)
